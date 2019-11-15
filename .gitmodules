@@ -1,0 +1,6 @@
+[submodule "libraries/Adafruit_FONA"]
+	path = libraries/Adafruit_FONA
+	url = https://github.com/adafruit/Adafruit_FONA.git
+[submodule "libraries/Adafruit_GPS"]
+	path = libraries/Adafruit_GPS
+	url = https://github.com/adafruit/Adafruit_GPS.git
